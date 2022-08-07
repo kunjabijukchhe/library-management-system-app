@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पुस्तकालय व्यवस्थापन प्रणाली</string>
+    <string name="action_share">सेयर गर्नुहोस्</string>
+    <string name="librarian_login">लाइब्रेरियन लगइन</string>
+    <string name="login">लगइन</string>
+    <string name="logout">बाहिर निस्कनु</string>
+    <string name="add_student">विद्यार्थी जोड्नुहोस्</string>
+    <string name="add_Book">किताब जोड्नुहोस्</string>
+    <string name="issue_book">जारी किताब</string>
+    <string name="return_book">फिर्ता किताब</string>
+    <string name="view_book">पुस्तक हेर्नुहोस्</string>
+    <string name="view_student">विद्यार्थी हेर्नुहोस्</string>
+    <string name="book_detail">पुस्तक विवरण</string>
+    <string name="student_detail">विद्यार्थी विवरण</string>
+    <string name="add">थप्नुहोस्</string>
+    <string name="delete">मेटाउन</string>
+    <string name="update">अपडेट गर्नुहोस्</string>
+    <string name="issue">जारी गर्नुहोस्</string>
+    <string name="returns">फर्किनु</string>
+    <string name="call">कल गर्नुहोस्</string>
+</resources>
